@@ -64,17 +64,17 @@ Outcome: Personas guided the definition of product priorities and communication 
 ---
 
 ### **Sprint 5 – Value Proposition & Initial Positioning**
-
-Objective: Define the startup’s unique value and market position.  
-
-Key Deliverables:
-- Creation of a **Value Proposition Canvas**, mapping customer jobs, pains, and gains to the product’s pain relievers and gain creators.  
-- Development of a **Positioning Map** comparing QueryMind with competitors based on ease of use and analytical autonomy.  
-- Articulation of a clear value statement:  
-  > “QueryMind democratizes data analytics by allowing any professional to generate insights through natural language.”  
-- Completion of strategic frameworks including **SWOT analysis**, **risk matrix**, and **opportunity matrix**.  
-
-Outcome: The project now has a validated narrative, positioning strategy, and readiness for the next development stage.
+**Objective:** Define the startup’s unique value and market position.  
+**Highlights:**
+- **Value Proposition Canvas** connecting customer jobs, pains, and gains to product relievers/creators.  
+- **Positioning Map** comparing ease of use vs. analytical autonomy.  
+- Clear value statement: *“QueryMind democratizes data analytics by allowing any professional to generate insights through natural language.”*  
+- Strategic frameworks finalized: **SWOT**, **Risk Matrix**, **Opportunity Matrix**.  
+- **Architecture Deliverables (added this sprint):**
+  - **Query Process Flow Diagram** — end-to-end path from a natural-language question to the delivered insight.  
+  - **System Sequence Diagram** — high-level component interactions across the platform.  
+  - *(Detailed documentation for both diagrams is provided in a separate public doc to keep this summary concise.)*  
+**Outcome:** Validated narrative and positioning; architecture viewpoints recorded for future build.
 
 ---
 
